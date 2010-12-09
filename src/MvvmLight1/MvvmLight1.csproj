@@ -35,16 +35,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="GalaSoft.MvvmLight.Extras.WPF4, Version=3.0.0.29165, Culture=neutral, PublicKeyToken=f396425e4cefefbc, processorArchitecture=MSIL">
-      <HintPath>..\lib\GalaSoft.MvvmLight.Extras.WPF4.dll</HintPath>
+    <Reference Include="GalaSoft.MvvmLight.Extras.WPF4">
+      <HintPath>..\..\lib\GalaSoft.MvvmLight.Extras.WPF4.dll</HintPath>
     </Reference>
-    <Reference Include="GalaSoft.MvvmLight.WPF4, Version=3.0.0.29166, Culture=neutral, PublicKeyToken=30359002188bf5b0, processorArchitecture=MSIL">
-      <HintPath>..\lib\GalaSoft.MvvmLight.WPF4.dll</HintPath>
+    <Reference Include="GalaSoft.MvvmLight.WPF4">
+      <HintPath>..\..\lib\GalaSoft.MvvmLight.WPF4.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\lib\System.Windows.Interactivity.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\System.Windows.Interactivity.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />

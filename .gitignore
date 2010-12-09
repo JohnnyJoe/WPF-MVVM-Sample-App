@@ -1,0 +1,5 @@
+*.suo
+*.user
+[Bb]in/
+obj/
+App_Data/
